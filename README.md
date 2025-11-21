@@ -39,6 +39,7 @@ Using a combination of data wrangling, validation checks, derived marketing indi
 - departments
 - orders_products
 - customers
+
 The Data dictionary can be accesed [here.](https://github.com/bazi-imran/Python-Instacart-Analysis/blob/main/01%20Project%20Management/Data%20Dictionary.pdf)
 
 ## Tools
