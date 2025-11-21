@@ -14,6 +14,20 @@ Using a combination of data wrangling, validation checks, derived marketing indi
 - Identify high-value customer segments for targeted engagement
 - Provide strategic recommendations based on observed patterns
 
+## Key Business Questions: 
+### Customer Timing & Behavior: 
+- What are the busiest days of the week and hours of the day?
+- At what times of day do customers spend the most money?
+### Product Strategy:
+- How can product prices be grouped into simpler ranges to guide targeted promotions?
+- Which product types or departments are the most popular?
+### Customer Segments:
+- How is customer loyalty distributed?
+- Do ordering habits vary by loyalty status?
+- Are there behavioral differences across customer regions?
+- Is there a connection between age, income, and family status?
+- What demographic classifications naturally emerge?
+- How do ordering habits differ across customer profiles?
 
 ## Data Structure
 
