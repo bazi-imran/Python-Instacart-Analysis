@@ -30,7 +30,7 @@ This included:
 - Standardizing formats (dates, categorical fields)
 - Verifying record counts after each transformation
 - Ensuring customer and order IDs matched across tables
-<img width="1092" height="375" alt="Screenshot 2025-11-21 at 11 03 58 AM" src="https://github.com/user-attachments/assets/0ec7b22e-b47a-4556-9937-5c4004bbd621" />
+<img width="1292" height="475" alt="Screenshot 2025-11-21 at 11 03 58 AM" src="https://github.com/user-attachments/assets/0ec7b22e-b47a-4556-9937-5c4004bbd621" />
 
 #### Consistency Checks:
 To protect data integrity, several validation checks were applied:
@@ -53,7 +53,7 @@ Mid-range items make up 61% of inventory and should be the primary marketing foc
 #### A Few Departments Drive Most Demand
 Produce and Dairy & Eggs dominate with 42% and 24% of all orders, making them top priorities alongside Snacks, Beverages, and Frozen for targeted promotions.
 
-<img width="600" alt="Screenshot 2025-11-21 at 12 55 40 PM" src="https://github.com/user-attachments/assets/ef1565cb-c566-46c6-9f2e-aedc24b79d4c" />
+<img width="500" alt="Screenshot 2025-11-21 at 12 55 40 PM" src="https://github.com/user-attachments/assets/ef1565cb-c566-46c6-9f2e-aedc24b79d4c" />
 
 #### Converting Regular Customers Into Loyal Ones Is a Major Opportunity
 With regular customers at 51% and loyal customers at 33.2%, loyalty programs, delivery perks, and personalized offers can significantly expand the loyal customer base.
@@ -69,7 +69,7 @@ Marketing should focus on married adults and seniors, while offering tailored ca
 #### Age and Income Strongly Influence Buying Behavior
 High-income customers over 40 respond well to premium offerings, while customers earning under 200k across age groups engage more with savings-focused promotions.
 
-<img width="600" alt="Screenshot 2025-11-21 at 12 55 08 PM" src="https://github.com/user-attachments/assets/2ac9f122-8012-4fa4-a310-701119dcae78" />
+<img width="500" alt="Screenshot 2025-11-21 at 12 55 08 PM" src="https://github.com/user-attachments/assets/2ac9f122-8012-4fa4-a310-701119dcae78" />
 
 #### Households With Dependents Generate the Most Sales
 Middle- and high-income customers with dependents drive frequent orders and respond well to bulk deals and reward programs, while high-income young adults without dependents require targeted lifestyle-oriented marketing.
