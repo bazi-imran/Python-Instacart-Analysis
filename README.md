@@ -15,6 +15,10 @@ This analysis reveals clear patterns in Instacart’s customer behavior that dir
 - Regular customers (51%) outnumber loyal customers (33.2%), revealing a major opportunity to increase retention.
 - Demographics and regions display distinct shopping patterns that support more tailored targeting.
 
+#### Population Flow: 
+A step-by-step mapping of how raw datasets were merged and filtered to produce a clean analytical dataset.
+<img width="1392" height="575" alt="Screenshot 2025-11-21 at 11 03 58 AM" src="https://github.com/user-attachments/assets/0ec7b22e-b47a-4556-9937-5c4004bbd621" />
+
 ## Insights Deep Dive: 
 
 #### Optimize Ad Timing Around Traffic Patterns
@@ -48,8 +52,6 @@ High-income customers over 40 respond well to premium offerings, while customers
 #### Households With Dependents Generate the Most Sales
 Middle- and high-income customers with dependents drive frequent orders and respond well to bulk deals and reward programs, while high-income young adults without dependents require targeted lifestyle-oriented marketing.
 
-
-
 ## Key Recommendations: 
 #### Marketing Team:
 - Shift ad spend to Tuesday/Wednesday low-traffic hours
@@ -67,31 +69,12 @@ Middle- and high-income customers with dependents drive frequent orders and resp
 - Introduce rewards for consistent ordering behavior
 - Create onboarding funnels that convert new customers into subscribers
 
-## Technical Tools: 
+## Technical Tools Used: 
 - The analysis was conducted in Python using:
   - Pandas for cleaning and feature engineering
   - NumPy/SciPy for calculations
   - Seaborn/Matplotlib for visualizations
 - The final report was created using Excel
- 
-## Data Preparation & Quality Checks
-#### Population Flow: 
-A step-by-step mapping of how raw datasets were merged and filtered to produce a clean analytical dataset.
-This included:
-- Removing incomplete records
-- Standardizing formats (dates, categorical fields)
-- Verifying record counts after each transformation
-- Ensuring customer and order IDs matched across tables
-<img width="1392" height="575" alt="Screenshot 2025-11-21 at 11 03 58 AM" src="https://github.com/user-attachments/assets/0ec7b22e-b47a-4556-9937-5c4004bbd621" />
-
-#### Consistency Checks:
-To protect data integrity, several validation checks were applied:
-- Duplicate customer and order ID detection
-- Consistency between order counts and customer activity
-- Outlier checks for unusually high/low spending
-- Logical validation of date fields and age ranges
-
-These checks ensured that the final dataset was reliable for downstream analysis.
 
 ## Project Structure
 The project files are divided between the following folders:
