@@ -59,12 +59,20 @@ The Data dictionary can be accesed [here.](https://github.com/bazi-imran/Python-
 
 
 ## Tools
-The data was analyzed using Python and the following libraries:
-- Pandas: for data analysis
-- Numpy: for mathematical equations
-- Seaborn: for data visualizations
-- Matplotlib: for data visualizations
-- SciPy: for mathematical equations
+This analysis was performed using:
+
+#### Programming & Analytics:
+- Python
+  - Pandas – Data cleaning and analysis
+  - NumPy – Calculations and transformations
+  - Matplotlib – Visualizations
+  - Seaborn – Statistical plotting
+  - SciPy – Mathematical/statistical functions
+
+#### Documentation & Reporting: 
+- Excel
+- Jupyter Notebook
+- Visualization exports
 
 ## Repository Structure
 The project files are divided between the following folders:
