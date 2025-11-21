@@ -73,7 +73,7 @@ Middle- and high-income customers with dependents drive frequent orders and resp
 - The final report was created using Excel
 
 ## Data Preparation: 
-#### Population Flow: A step-by-step mapping of how raw datasets were merged and filtered to produce a clean analytical dataset.
+A step-by-step mapping of how raw datasets were merged and filtered to produce a clean analytical dataset.
 
 <img width="1392" height="575" alt="Screenshot 2025-11-21 at 11 03 58 AM" src="https://github.com/user-attachments/assets/0ec7b22e-b47a-4556-9937-5c4004bbd621" />
 
