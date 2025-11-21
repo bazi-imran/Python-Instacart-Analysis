@@ -69,7 +69,7 @@ Marketing should focus on married adults and seniors, while offering tailored ca
 #### Age and Income Strongly Influence Buying Behavior
 High-income customers over 40 respond well to premium offerings, while customers earning under 200k across age groups engage more with savings-focused promotions.
 
-<img width="739" height="256" alt="Screenshot 2025-11-21 at 12 55 08 PM" src="https://github.com/user-attachments/assets/2ac9f122-8012-4fa4-a310-701119dcae78" />
+<img width="600" alt="Screenshot 2025-11-21 at 12 55 08 PM" src="https://github.com/user-attachments/assets/2ac9f122-8012-4fa4-a310-701119dcae78" />
 
 #### Households With Dependents Generate the Most Sales
 Middle- and high-income customers with dependents drive frequent orders and respond well to bulk deals and reward programs, while high-income young adults without dependents require targeted lifestyle-oriented marketing.
