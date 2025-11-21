@@ -33,7 +33,7 @@ Using a combination of data wrangling, validation checks, derived marketing indi
 
 <img width="1092" height="375" alt="Screenshot 2025-11-21 at 11 03 58 AM" src="https://github.com/user-attachments/assets/0ec7b22e-b47a-4556-9937-5c4004bbd621" />
 
-#### Datasets: 
+### Datasets: 
 - orders
 - products
 - departments
@@ -41,6 +41,30 @@ Using a combination of data wrangling, validation checks, derived marketing indi
 - customers
 
 The Data dictionary can be accesed [here.](https://github.com/bazi-imran/Python-Instacart-Analysis/blob/main/01%20Project%20Management/Data%20Dictionary.pdf)
+
+### Repository Structure
+
+Project/
+│
+├── 01 Project Management
+│    ├── Project Brief
+│    └── Data Dictionary
+│
+├── 02 Data
+│    ├── Original Data (not uploaded due to size)
+│    └── Prepared Data
+│
+├── 03 Scripts
+│    ├── Jupyter notebooks
+│    └── Analysis scripts
+│
+├── 04 Analysis
+│    ├── Reports (crosstabs)
+│    └── Visualizations (charts used in insights)
+│
+└── 05 Sent to Client
+     └── Final Excel deliverable
+
 
 ## Tools
 The data was analyzed using Python and the following libraries:
