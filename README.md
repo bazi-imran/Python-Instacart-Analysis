@@ -68,20 +68,19 @@ High-income customers over 40 respond well to premium offerings, while customers
 #### Households With Dependents Generate the Most Sales
 Middle- and high-income customers with dependents drive frequent orders and respond well to bulk deals and reward programs, while high-income young adults without dependents require targeted lifestyle-oriented marketing.
 
-## Tools Used: 
+## Technical Process: 
 
 #### Programming & Analytics:
-- Python
-  - Pandas – Data cleaning and analysis
-  - NumPy – Calculations and transformations
-  - Matplotlib – Visualizations
-  - Seaborn – Statistical plotting
-  - SciPy – Mathematical/statistical functions
+- The analysis was conducted in Python using:
+  - Pandas for cleaning and feature engineering
+  - NumPy/SciPy for calculations
+  - Seaborn/Matplotlib for visualizations
+  - Excel for final reporting
 
-#### Documentation & Reporting: 
-- Excel
-- Jupyter Notebook
-- Visualization exports
+#### Data preparation included: 
+- Full population flow mapping
+- Consistency checks
+- Creating derived fields (loyalty_flag, price_range_loc, busiest times, etc.)
 
 ## Datasets: 
 - orders
