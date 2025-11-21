@@ -72,7 +72,7 @@ Middle- and high-income customers with dependents drive frequent orders and resp
   - Pandas for cleaning and feature engineering
   - NumPy/SciPy for calculations
   - Seaborn/Matplotlib for visualizations
-  - Excel for final reporting
+- The final report was created using Excel
  
 ## Data Preparation & Quality Checks
 #### Population Flow: 
