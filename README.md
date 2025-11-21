@@ -1,5 +1,5 @@
 # Python-Instacart-Analysis
-## Project Overview:This project delivers a comprehensive Marketing Analysis using a structured, end-to-end analytics workflow. The analysis evaluates customer engagement, campaign performance, retention behavior, and regional trends to identify actionable opportunities for improving marketing ROI and operational decision-making.
+## Project Overview: This project delivers a comprehensive Marketing Analysis using a structured, end-to-end analytics workflow. The analysis evaluates customer engagement, campaign performance, retention behavior, and regional trends to identify actionable opportunities for improving marketing ROI and operational decision-making.
 
 ![download](https://github.com/bazi-imran/Python-Instacart-Analysis/assets/160747644/16dea413-270e-44ea-8c4e-5a0eb7f4fbef)
 
