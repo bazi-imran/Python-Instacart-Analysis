@@ -42,33 +42,6 @@ Using a combination of data wrangling, validation checks, derived marketing indi
 
 The Data dictionary can be accesed [here.](https://github.com/bazi-imran/Python-Instacart-Analysis/blob/main/01%20Project%20Management/Data%20Dictionary.pdf)
 
-### Repository Structure
-
-Project/
-
-│
-├── 01 Project Management
-│    ├── Project Brief
-│    └── Data Dictionary
-
-│
-├── 02 Data
-│    ├── Original Data (not uploaded due to size)
-│    └── Prepared Data
-
-│
-├── 03 Scripts
-│    ├── Jupyter notebooks
-│    └── Analysis scripts
-
-│
-├── 04 Analysis
-│    ├── Reports (crosstabs)
-│    └── Visualizations (charts used in insights)
-
-│
-└── 05 Sent to Client
-     └── Final Excel deliverable
 
 
 ## Tools
@@ -79,8 +52,9 @@ The data was analyzed using Python and the following libraries:
 - Matplotlib: for data visualizations
 - SciPy: for mathematical equations
 
-## Folders
+## Repository Structure
 The project files are divided between the following folders:
+
 - 01 Project Management: Project Brief & Data Dictionary.
 - 02 Data: Separated into two subfolders Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. (Data files not uploaded to GitHub due to size.)
 - 03 Scripts: The Jupyter notebooks containing the coding for the analysis.
