@@ -6,7 +6,7 @@ For my data project, I analyzed Instacart trends using Python. After cleaning an
 
 Instacart, an online grocery store app, seeks to enhance its understanding of sales patterns through exploratory data analysis. With a focus on customer segmentation and purchasing behaviors, the goal is to inform targeted marketing strategies for continued growth and optimization.
 
-[Instacart Population Flow](<img width="775" height="215" alt="Screenshot 2025-11-21 at 11 20 49 AM" src="https://github.com/user-attachments/assets/753ffd62-bbc8-4e96-ae8c-502570c8941f" />)
+![Instacart Population Flow](<img width="775" height="215" alt="Screenshot 2025-11-21 at 11 20 49 AM" src="https://github.com/user-attachments/assets/753ffd62-bbc8-4e96-ae8c-502570c8941f" />)
 
 
 # Key Questions
