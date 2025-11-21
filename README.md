@@ -30,7 +30,7 @@ Using a combination of data wrangling, validation checks, derived marketing indi
 - How do ordering habits differ across customer profiles?
 
 ## Data Preparation & Quality Checks
-### Population Flow: 
+#### Population Flow: 
 A step-by-step mapping of how raw datasets were merged and filtered to produce a clean analytical dataset.
 This included:
 - Removing incomplete records
@@ -39,6 +39,14 @@ This included:
 - Ensuring customer and order IDs matched across tables
 <img width="1092" height="375" alt="Screenshot 2025-11-21 at 11 03 58 AM" src="https://github.com/user-attachments/assets/0ec7b22e-b47a-4556-9937-5c4004bbd621" />
 
+#### Consistency Checks:
+To protect data integrity, several validation checks were applied:
+- Duplicate customer and order ID detection
+- Consistency between order counts and customer activity
+- Outlier checks for unusually high/low spending
+- Logical validation of date fields and age ranges
+
+These checks ensured that the final dataset was reliable for downstream analysis.
 ### Datasets: 
 - orders
 - products
