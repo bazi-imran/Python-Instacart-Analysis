@@ -16,26 +16,7 @@ This analysis reveals clear patterns in Instacart’s customer behavior that dir
 - Demographics and regions display distinct shopping patterns that support more tailored targeting.
 - Below are visuals and insights that summarize the business problems Instacart needs to solve — and how this analysis supports those solutions.
 
-## Data Preparation & Quality Checks
-#### Population Flow: 
-A step-by-step mapping of how raw datasets were merged and filtered to produce a clean analytical dataset.
-This included:
-- Removing incomplete records
-- Standardizing formats (dates, categorical fields)
-- Verifying record counts after each transformation
-- Ensuring customer and order IDs matched across tables
-<img width="1392" height="575" alt="Screenshot 2025-11-21 at 11 03 58 AM" src="https://github.com/user-attachments/assets/0ec7b22e-b47a-4556-9937-5c4004bbd621" />
-
-#### Consistency Checks:
-To protect data integrity, several validation checks were applied:
-- Duplicate customer and order ID detection
-- Consistency between order counts and customer activity
-- Outlier checks for unusually high/low spending
-- Logical validation of date fields and age ranges
-
-These checks ensured that the final dataset was reliable for downstream analysis.
-
-## Key Insights: 
+## Insights Deep Dive: 
 
 #### Optimize Ad Timing Around Traffic Patterns
 Weekend orders peak on Saturdays and Sundays between 9 a.m.–4 p.m., so ads should be prioritized during low-traffic periods like Tuesdays and Wednesdays before 9 a.m. and after 4 p.m.
@@ -68,28 +49,50 @@ High-income customers over 40 respond well to premium offerings, while customers
 #### Households With Dependents Generate the Most Sales
 Middle- and high-income customers with dependents drive frequent orders and respond well to bulk deals and reward programs, while high-income young adults without dependents require targeted lifestyle-oriented marketing.
 
-## Technical Process: 
 
-#### Programming & Analytics:
+
+## Key Recommendations: 
+#### Marketing Team:
+- Shift ad spend to Tuesday/Wednesday low-traffic hours
+- Run segmented campaigns for mid-range vs premium items
+- Launch loyalty membership incentives
+- Build region-specific creative for Northeast, West, Midwest audiences
+
+#### Product & Category Team:
+- Prioritize Produce and Dairy categories for feature placement
+- Create bundled offers for top-five high-demand departments
+- Build targeted product carousels for high-income vs value shoppers
+
+#### Customer Retention Team:
+- Develop personalized re-engagement workflows
+- Introduce rewards for consistent ordering behavior
+- Create onboarding funnels that convert new customers into subscribers
+
+## Technical Tools: 
 - The analysis was conducted in Python using:
   - Pandas for cleaning and feature engineering
   - NumPy/SciPy for calculations
   - Seaborn/Matplotlib for visualizations
   - Excel for final reporting
+ 
+## Data Preparation & Quality Checks
+#### Population Flow: 
+A step-by-step mapping of how raw datasets were merged and filtered to produce a clean analytical dataset.
+This included:
+- Removing incomplete records
+- Standardizing formats (dates, categorical fields)
+- Verifying record counts after each transformation
+- Ensuring customer and order IDs matched across tables
+<img width="1392" height="575" alt="Screenshot 2025-11-21 at 11 03 58 AM" src="https://github.com/user-attachments/assets/0ec7b22e-b47a-4556-9937-5c4004bbd621" />
 
-#### Data preparation included: 
-- Full population flow mapping
-- Consistency checks
-- Creating derived fields (loyalty_flag, price_range_loc, busiest times, etc.)
+#### Consistency Checks:
+To protect data integrity, several validation checks were applied:
+- Duplicate customer and order ID detection
+- Consistency between order counts and customer activity
+- Outlier checks for unusually high/low spending
+- Logical validation of date fields and age ranges
 
-## Datasets: 
-- orders
-- products
-- departments
-- orders_products
-- customers
-
-The Data dictionary can be accesed [here.](https://github.com/bazi-imran/Python-Instacart-Analysis/blob/main/01%20Project%20Management/Data%20Dictionary.pdf)
+These checks ensured that the final dataset was reliable for downstream analysis.
 
 ## Project Structure
 The project files are divided between the following folders:
