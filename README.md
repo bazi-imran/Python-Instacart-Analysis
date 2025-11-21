@@ -33,7 +33,7 @@ Using a combination of data wrangling, validation checks, derived marketing indi
 
 <img width="1092" height="375" alt="Screenshot 2025-11-21 at 11 03 58 AM" src="https://github.com/user-attachments/assets/0ec7b22e-b47a-4556-9937-5c4004bbd621" />
 
-#### Dataset: 
+#### Datasets: 
 - orders
 - products
 - departments
