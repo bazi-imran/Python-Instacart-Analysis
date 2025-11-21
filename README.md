@@ -14,7 +14,6 @@ This analysis reveals clear patterns in Instacart’s customer behavior that dir
 - Just a few departments — Produce, Dairy & Eggs, Snacks, Beverages, Frozen — drive the majority of sales.
 - Regular customers (51%) outnumber loyal customers (33.2%), revealing a major opportunity to increase retention.
 - Demographics and regions display distinct shopping patterns that support more tailored targeting.
-- Below are visuals and insights that summarize the business problems Instacart needs to solve — and how this analysis supports those solutions.
 
 ## Insights Deep Dive: 
 
