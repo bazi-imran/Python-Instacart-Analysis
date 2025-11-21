@@ -6,6 +6,9 @@ For my data project, I analyzed Instacart trends using Python. After cleaning an
 
 Instacart, an online grocery store app, seeks to enhance its understanding of sales patterns through exploratory data analysis. With a focus on customer segmentation and purchasing behaviors, the goal is to inform targeted marketing strategies for continued growth and optimization.
 
+[Instacart Population Flow](<img width="775" height="215" alt="Screenshot 2025-11-21 at 11 20 49 AM" src="https://github.com/user-attachments/assets/753ffd62-bbc8-4e96-ae8c-502570c8941f" />)
+
+
 # Key Questions
 - The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
 - They also want to know whether there are particular times of the day when people spend the most money, as this might inform the type of products they advertise at these times.
