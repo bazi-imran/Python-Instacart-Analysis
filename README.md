@@ -45,20 +45,28 @@ These checks ensured that the final dataset was reliable for downstream analysis
 
 #### Optimize Ad Timing Around Traffic Patterns
 Weekend orders peak on Saturdays and Sundays between 9 a.m.–4 p.m., so ads should be prioritized during low-traffic periods like Tuesdays and Wednesdays before 9 a.m. and after 4 p.m.
+<img width="739" height="256" alt="Screenshot 2025-11-21 at 12 49 17 PM" src="https://github.com/user-attachments/assets/e90f390a-c9ca-4890-be2d-c9f12a6a2114" />
+
 #### Mid-Range Products Lead Overall Engagement
 Mid-range items make up 61% of inventory and should be the primary marketing focus, while low- and high-range products still account for 37% of orders and require balanced targeting.
 #### A Few Departments Drive Most Demand
 Produce and Dairy & Eggs dominate with 42% and 24% of all orders, making them top priorities alongside Snacks, Beverages, and Frozen for targeted promotions.
+<img width="348" height="215" alt="Screenshot 2025-11-21 at 12 55 40 PM" src="https://github.com/user-attachments/assets/ef1565cb-c566-46c6-9f2e-aedc24b79d4c" />
+
 #### Converting Regular Customers Into Loyal Ones Is a Major Opportunity
 With regular customers at 51% and loyal customers at 33.2%, loyalty programs, delivery perks, and personalized offers can significantly expand the loyal customer base.
 #### Engagement Strategies Should Match Order Frequency
 Frequent loyal customers need personalized incentives, while less active customers benefit more from targeted re-engagement campaigns and regular customers should be encouraged into loyalty tiers.
 #### Regional Patterns Require Tailored Marketing
 Regional strategies should address cultural differences in the Northeast, Midwest, and West, while the South should maintain strong performance and focus ads during peak responsiveness from 5 a.m.–10 a.m.
+<img width="612" height="208" alt="Screenshot 2025-11-21 at 12 52 38 PM" src="https://github.com/user-attachments/assets/5f6433ca-ebbf-4bd8-92be-eb343af30f59" />
+
 #### Demographic Segments Have Distinct Marketing Needs
 Marketing should focus on married adults and seniors, while offering tailored campaigns for young adults, dependents, and single or widowed customers to increase relevance and satisfaction.
 #### Age and Income Strongly Influence Buying Behavior
 High-income customers over 40 respond well to premium offerings, while customers earning under 200k across age groups engage more with savings-focused promotions.
+<img width="333" height="235" alt="Screenshot 2025-11-21 at 12 55 08 PM" src="https://github.com/user-attachments/assets/2ac9f122-8012-4fa4-a310-701119dcae78" />
+
 #### Households With Dependents Generate the Most Sales
 Middle- and high-income customers with dependents drive frequent orders and respond well to bulk deals and reward programs, while high-income young adults without dependents require targeted lifestyle-oriented marketing.
 
