@@ -30,7 +30,7 @@ This included:
 - Standardizing formats (dates, categorical fields)
 - Verifying record counts after each transformation
 - Ensuring customer and order IDs matched across tables
-<img width="1292" height="475" alt="Screenshot 2025-11-21 at 11 03 58 AM" src="https://github.com/user-attachments/assets/0ec7b22e-b47a-4556-9937-5c4004bbd621" />
+<img width="1392" height="575" alt="Screenshot 2025-11-21 at 11 03 58 AM" src="https://github.com/user-attachments/assets/0ec7b22e-b47a-4556-9937-5c4004bbd621" />
 
 #### Consistency Checks:
 To protect data integrity, several validation checks were applied:
