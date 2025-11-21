@@ -29,8 +29,13 @@ Using a combination of data wrangling, validation checks, derived marketing indi
 - What demographic classifications naturally emerge?
 - How do ordering habits differ across customer profiles?
 
-## Data Structure
-
+## Data Preparation & Quality Checks
+### Population Flow: A step-by-step mapping of how raw datasets were merged and filtered to produce a clean analytical dataset.
+This included:
+- Removing incomplete records
+- Standardizing formats (dates, categorical fields)
+- Verifying record counts after each transformation
+- Ensuring customer and order IDs matched across tables
 <img width="1092" height="375" alt="Screenshot 2025-11-21 at 11 03 58 AM" src="https://github.com/user-attachments/assets/0ec7b22e-b47a-4556-9937-5c4004bbd621" />
 
 ### Datasets: 
