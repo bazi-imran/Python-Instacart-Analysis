@@ -44,7 +44,7 @@ The Data dictionary can be accesed [here.](https://github.com/bazi-imran/Python-
 
 ### Repository Structure
 
-Project/
+"Project/
 │
 ├── 01 Project Management
 │    ├── Project Brief
@@ -63,7 +63,7 @@ Project/
 │    └── Visualizations (charts used in insights)
 │
 └── 05 Sent to Client
-     └── Final Excel deliverable
+     └── Final Excel deliverable"
 
 
 ## Tools
