@@ -92,15 +92,18 @@ Middle- and high-income customers with dependents drive frequent orders and resp
 
 The Data dictionary can be accesed [here.](https://github.com/bazi-imran/Python-Instacart-Analysis/blob/main/01%20Project%20Management/Data%20Dictionary.pdf)
 
-## Repository Structure
+## Project Structure
 The project files are divided between the following folders:
 
 - Project Management: Project Brief & Data Dictionary.
-- Data: Separated into two subfolders Original and Prepared Data.
-  - These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. (Data files not uploaded to GitHub due to size.)
-- Scripts: The Jupyter notebooks containing the coding for the analysis.
-- Analysis: Separated into two subfolders Reports and Visualizations. The Reports subfolder contains crosstabs and the Visualizations subfolder contains the visualizations used for developing and explaining insights.
-- Sent to Client: The final report presented in Excel
+- Data: 
+  - Original (not uploaded due to size)
+  - Prepared Data  
+- Scripts: Jupyter notebooks
+- Analysis:
+  - Reports (crosstabs)
+  - Visualizations
+- Sent to Client: Final Excel Report
 
 ## Contact
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/bazilla-imran-aa5ab0237/)!
