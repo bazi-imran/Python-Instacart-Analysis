@@ -7,6 +7,13 @@ Instacart, an online grocery store app, seeks to enhance its understanding of sa
 
 Using a combination of data wrangling, validation checks, derived marketing indicators, and visualizations, this project provides a complete, insight-driven interpretation of customer behavior across multiple segments.
 
+## Project Objectives: 
+- Clean, validate, and standardize raw marketing activity data 
+- Build derived features to segment customers by loyalty, spending, and frequency
+- Visualize marketing performance trends across product categories and customer groups
+- Identify high-value customer segments for targeted engagement
+- Provide strategic recommendations based on observed patterns
+
 
 ## Data Structure
 
