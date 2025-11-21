@@ -7,20 +7,14 @@ Instacart, an online grocery store app, seeks to enhance its understanding of sa
 
 I conducted an exploratory analysis to uncover when people shop, what they buy, and which customer groups drive revenue, using real-world business framing and actionable recommendations.
 
-## Key Business Questions: 
-#### Customer Timing & Behavior: 
-- What are the busiest days of the week and hours of the day?
-- At what times of day do customers spend the most money?
-#### Product Strategy:
-- How can product prices be grouped into simpler ranges to guide targeted promotions?
-- Which product types or departments are the most popular?
-#### Customer Segments:
-- How is customer loyalty distributed?
-- Do ordering habits vary by loyalty status?
-- Are there behavioral differences across customer regions?
-- Is there a connection between age, income, and family status?
-- What demographic classifications naturally emerge?
-- How do ordering habits differ across customer profiles?
+## Executive Summary: 
+This analysis reveals clear patterns in Instacart’s customer behavior that directly support marketing strategy, product prioritization, and loyalty growth:
+- Weekend traffic surges create costly ad competition, while Tues/Wed mornings and late afternoons offer high-value, low-traffic ad windows.
+- Mid-range products dominate engagement, but both low and high-price items still account for 37% of orders and deserve balanced campaigns.
+- Just a few departments — Produce, Dairy & Eggs, Snacks, Beverages, Frozen — drive the majority of sales.
+- Regular customers (51%) outnumber loyal customers (33.2%), revealing a major opportunity to increase retention.
+- Demographics and regions display distinct shopping patterns that support more tailored targeting.
+- Below are visuals and insights that summarize the business problems Instacart needs to solve — and how this analysis supports those solutions.
 
 ## Data Preparation & Quality Checks
 #### Population Flow: 
