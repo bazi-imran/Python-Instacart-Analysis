@@ -1,11 +1,11 @@
 # Instacart Marketing Analysis
-## Project Overview: This project delivers a comprehensive Marketing Analysis using a structured, end-to-end analytics workflow. The analysis evaluates customer engagement, campaign performance, retention behavior, and regional trends to identify actionable opportunities for improving marketing ROI and operational decision-making.
+## Project Backgroud: This project delivers a comprehensive Marketing Analysis with an aim to better understand customer purchasing behavior, peak shopping windows, and high-value customer segments to improve marketing ROI.
 
 ![download](https://github.com/bazi-imran/Python-Instacart-Analysis/assets/160747644/16dea413-270e-44ea-8c4e-5a0eb7f4fbef)
 
 Instacart, an online grocery store app, seeks to enhance its understanding of sales patterns through exploratory data analysis. With a focus on customer segmentation and purchasing behaviors, the goal is to inform targeted marketing strategies for continued growth and optimization.
 
-Using a combination of data wrangling, validation checks, derived marketing indicators, and visualizations, this project provides a complete, insight-driven interpretation of customer behavior across multiple segments.
+I conducted an exploratory analysis to uncover when people shop, what they buy, and which customer groups drive revenue, using real-world business framing and actionable recommendations.
 
 ## Key Business Questions: 
 #### Customer Timing & Behavior: 
