@@ -47,14 +47,7 @@ To protect data integrity, several validation checks were applied:
 - Logical validation of date fields and age ranges
 
 These checks ensured that the final dataset was reliable for downstream analysis.
-### Datasets: 
-- orders
-- products
-- departments
-- orders_products
-- customers
 
-The Data dictionary can be accesed [here.](https://github.com/bazi-imran/Python-Instacart-Analysis/blob/main/01%20Project%20Management/Data%20Dictionary.pdf)
 
 
 
@@ -73,6 +66,15 @@ This analysis was performed using:
 - Excel
 - Jupyter Notebook
 - Visualization exports
+
+### Datasets: 
+- orders
+- products
+- departments
+- orders_products
+- customers
+
+The Data dictionary can be accesed [here.](https://github.com/bazi-imran/Python-Instacart-Analysis/blob/main/01%20Project%20Management/Data%20Dictionary.pdf)
 
 ## Repository Structure
 The project files are divided between the following folders:
