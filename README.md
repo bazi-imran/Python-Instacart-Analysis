@@ -15,13 +15,13 @@ Using a combination of data wrangling, validation checks, derived marketing indi
 - Provide strategic recommendations based on observed patterns
 
 ## Key Business Questions: 
-### Customer Timing & Behavior: 
+#### Customer Timing & Behavior: 
 - What are the busiest days of the week and hours of the day?
 - At what times of day do customers spend the most money?
-### Product Strategy:
+#### Product Strategy:
 - How can product prices be grouped into simpler ranges to guide targeted promotions?
 - Which product types or departments are the most popular?
-### Customer Segments:
+#### Customer Segments:
 - How is customer loyalty distributed?
 - Do ordering habits vary by loyalty status?
 - Are there behavioral differences across customer regions?
@@ -30,7 +30,8 @@ Using a combination of data wrangling, validation checks, derived marketing indi
 - How do ordering habits differ across customer profiles?
 
 ## Data Preparation & Quality Checks
-### Population Flow: A step-by-step mapping of how raw datasets were merged and filtered to produce a clean analytical dataset.
+### Population Flow: 
+A step-by-step mapping of how raw datasets were merged and filtered to produce a clean analytical dataset.
 This included:
 - Removing incomplete records
 - Standardizing formats (dates, categorical fields)
