@@ -86,7 +86,7 @@ The project files are divided between the following folders:
   - Prepared Data  
 - Scripts: Jupyter notebooks
 - Analysis:
-  - Reports (crosstabs)
+  - Reports
   - Visualizations
 - Sent to Client: Final Excel Report
 
