@@ -1,4 +1,4 @@
-# Python-Instacart-Analysis
+# Instacart Marketing Analysis
 ## Project Overview: This project delivers a comprehensive Marketing Analysis using a structured, end-to-end analytics workflow. The analysis evaluates customer engagement, campaign performance, retention behavior, and regional trends to identify actionable opportunities for improving marketing ROI and operational decision-making.
 
 ![download](https://github.com/bazi-imran/Python-Instacart-Analysis/assets/160747644/16dea413-270e-44ea-8c4e-5a0eb7f4fbef)
@@ -44,26 +44,31 @@ The Data dictionary can be accesed [here.](https://github.com/bazi-imran/Python-
 
 ### Repository Structure
 
-"Project/
+Project/
+
 │
 ├── 01 Project Management
 │    ├── Project Brief
 │    └── Data Dictionary
+
 │
 ├── 02 Data
 │    ├── Original Data (not uploaded due to size)
 │    └── Prepared Data
+
 │
 ├── 03 Scripts
 │    ├── Jupyter notebooks
 │    └── Analysis scripts
+
 │
 ├── 04 Analysis
 │    ├── Reports (crosstabs)
 │    └── Visualizations (charts used in insights)
+
 │
 └── 05 Sent to Client
-     └── Final Excel deliverable"
+     └── Final Excel deliverable
 
 
 ## Tools
