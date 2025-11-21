@@ -32,14 +32,15 @@ Using a combination of data wrangling, validation checks, derived marketing indi
 ## Data Structure
 
 <img width="1092" height="375" alt="Screenshot 2025-11-21 at 11 03 58 AM" src="https://github.com/user-attachments/assets/0ec7b22e-b47a-4556-9937-5c4004bbd621" />
-### Dataset
+
+### Dataset: 
 - orders
 - products
 - departments
 - orders_products
 - customers
 
-# Tools
+## Tools
 The data was analyzed using Python and the following libraries:
 - Pandas: for data analysis
 - Numpy: for mathematical equations
@@ -47,7 +48,7 @@ The data was analyzed using Python and the following libraries:
 - Matplotlib: for data visualizations
 - SciPy: for mathematical equations
 
-# Folders
+## Folders
 The project files are divided between the following folders:
 - 01 Project Management: Project Brief & Data Dictionary.
 - 02 Data: Separated into two subfolders Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. (Data files not uploaded to GitHub due to size.)
