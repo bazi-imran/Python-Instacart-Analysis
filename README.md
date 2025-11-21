@@ -15,8 +15,8 @@ This analysis reveals clear patterns in Instacart’s customer behavior that dir
 - Regular customers (51%) outnumber loyal customers (33.2%), revealing a major opportunity to increase retention.
 - Demographics and regions display distinct shopping patterns that support more tailored targeting.
 
-#### Population Flow: 
-A step-by-step mapping of how raw datasets were merged and filtered to produce a clean analytical dataset.
+#### Population Flow: A step-by-step mapping of how raw datasets were merged and filtered to produce a clean analytical dataset.
+
 <img width="1392" height="575" alt="Screenshot 2025-11-21 at 11 03 58 AM" src="https://github.com/user-attachments/assets/0ec7b22e-b47a-4556-9937-5c4004bbd621" />
 
 ## Insights Deep Dive: 
