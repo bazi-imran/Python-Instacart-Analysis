@@ -53,7 +53,7 @@ Mid-range items make up 61% of inventory and should be the primary marketing foc
 #### A Few Departments Drive Most Demand
 Produce and Dairy & Eggs dominate with 42% and 24% of all orders, making them top priorities alongside Snacks, Beverages, and Frozen for targeted promotions.
 
-<img width="700" alt="Screenshot 2025-11-21 at 12 55 40 PM" src="https://github.com/user-attachments/assets/ef1565cb-c566-46c6-9f2e-aedc24b79d4c" />
+<img width="739" height="256" alt="Screenshot 2025-11-21 at 12 55 40 PM" src="https://github.com/user-attachments/assets/ef1565cb-c566-46c6-9f2e-aedc24b79d4c" />
 
 #### Converting Regular Customers Into Loyal Ones Is a Major Opportunity
 With regular customers at 51% and loyal customers at 33.2%, loyalty programs, delivery perks, and personalized offers can significantly expand the loyal customer base.
@@ -62,7 +62,7 @@ Frequent loyal customers need personalized incentives, while less active custome
 #### Regional Patterns Require Tailored Marketing
 Regional strategies should address cultural differences in the Northeast, Midwest, and West, while the South should maintain strong performance and focus ads during peak responsiveness from 5 a.m.–10 a.m.
 
-<img width="612" height="208" alt="Screenshot 2025-11-21 at 12 52 38 PM" src="https://github.com/user-attachments/assets/5f6433ca-ebbf-4bd8-92be-eb343af30f59" />
+<img width="739" height="256" alt="Screenshot 2025-11-21 at 12 52 38 PM" src="https://github.com/user-attachments/assets/5f6433ca-ebbf-4bd8-92be-eb343af30f59" />
 
 #### Demographic Segments Have Distinct Marketing Needs
 Marketing should focus on married adults and seniors, while offering tailored campaigns for young adults, dependents, and single or widowed customers to increase relevance and satisfaction.
