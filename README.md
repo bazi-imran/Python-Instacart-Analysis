@@ -53,7 +53,7 @@ Mid-range items make up 61% of inventory and should be the primary marketing foc
 #### A Few Departments Drive Most Demand
 Produce and Dairy & Eggs dominate with 42% and 24% of all orders, making them top priorities alongside Snacks, Beverages, and Frozen for targeted promotions.
 
-<img width="348" height="215" alt="Screenshot 2025-11-21 at 12 55 40 PM" src="https://github.com/user-attachments/assets/ef1565cb-c566-46c6-9f2e-aedc24b79d4c" />
+<img width="700" alt="Screenshot 2025-11-21 at 12 55 40 PM" src="https://github.com/user-attachments/assets/ef1565cb-c566-46c6-9f2e-aedc24b79d4c" />
 
 #### Converting Regular Customers Into Loyal Ones Is a Major Opportunity
 With regular customers at 51% and loyal customers at 33.2%, loyalty programs, delivery perks, and personalized offers can significantly expand the loyal customer base.
