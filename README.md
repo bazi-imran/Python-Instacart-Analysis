@@ -1,13 +1,17 @@
 # Python-Instacart-Analysis
-For my data project, I analyzed Instacart trends using Python. After cleaning and exploring multiple datasets, I created a report with insights and recommendations for Instacart's key questions. Insta data is available online, and the project brief has been fabricated by CareerFoundry for the purpose of the analysis project.
+## Project Overview:This project delivers a comprehensive Marketing Analysis using a structured, end-to-end analytics workflow. The analysis evaluates customer engagement, campaign performance, retention behavior, and regional trends to identify actionable opportunities for improving marketing ROI and operational decision-making.
 
-# Objective
 ![download](https://github.com/bazi-imran/Python-Instacart-Analysis/assets/160747644/16dea413-270e-44ea-8c4e-5a0eb7f4fbef)
 
 Instacart, an online grocery store app, seeks to enhance its understanding of sales patterns through exploratory data analysis. With a focus on customer segmentation and purchasing behaviors, the goal is to inform targeted marketing strategies for continued growth and optimization.
 
+Using a combination of data wrangling, validation checks, derived marketing indicators, and visualizations, this project provides a complete, insight-driven interpretation of customer behavior across multiple segments.
 
-<img width="775" height="215" alt="Screenshot 2025-11-21 at 11 20 49 AM" src="https://github.com/user-attachments/assets/24875908-06f6-4962-a725-ed5358d25ad6" />
+
+## Data Structure
+
+<img width="1092" height="375" alt="Screenshot 2025-11-21 at 11 03 58 AM" src="https://github.com/user-attachments/assets/0ec7b22e-b47a-4556-9937-5c4004bbd621" />
+
 
 
 
